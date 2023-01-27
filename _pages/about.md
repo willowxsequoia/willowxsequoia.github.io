@@ -4,11 +4,4 @@ layout: post
 permalink: /about/
 published: true
 ---
-
-For more themes please visit [https://jekyll-themes.com](https://jekyll-themes.com){: target="_blank"}
-
-Does the theme deserve a star?
-
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/sharu725/hagura" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star sharu725/hagura on GitHub">Star</a>
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+Welcome to my personal blog, where I share my thoughts on everything you never knew you needed to know. My name is Lunar and I'm basically a walking encyclopedia, but with less pages. I'll be dishing out my thoughts on technology, science and psychology. But let's be real, I'm mostly just here to flex my brain muscles and make you feel inferior. Just kidding (kind of). I love the human mind and how it can do amazing things like creating a blog, even if it's just for me to talk to myself. So, come along for the ride, and who knows, you might just learn something new... or at least have a good laugh at my expense.
