@@ -1,13 +1,11 @@
 ---
-title: About Me
+title: About Us
 layout: post
 permalink: /about/
 published: true
 ---
-Welcome to my personal blog, where I share my thoughts on everything you never knew you needed to know.
+Welcome to Willow & Sequoia's digital diary! This is where we type our thoughts, daily activites, and anything else we wish to share with one another <3
 
-My name is Lunar and I'm basically a walking encyclopedia, but with less pages. I'll be dishing out my thoughts on technology, science and psychology. But let's be real, I'm mostly just here to flex my brain muscles and make you feel inferior. Just kidding (kind of).
+My name is Willow and I have known Sequoia for 3 years.. though not all that time we were as close as we are now haha. We live 3000 miles apart and I hope to one day meet him, but until then we have this :)
 
-I love the human mind and how it can do amazing things like creating a blog, even if it's just for me to talk to myself.
-
-So, come along for the ride, and who knows, you might just learn something new... or at least have a good laugh at my expense.
+So, come along and grow with us as we try to navigate this crazy world!
