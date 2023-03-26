@@ -1,9 +1,9 @@
 ### your site title here
 
-title: 𝐖𝐢𝐥𝐥𝐨𝐰𝐗𝐒𝐞𝐪𝐮𝐢𝐨𝐚
+title: 𝚆𝚒𝚕𝚕𝚘𝚠𝚇𝚂𝚎𝚚𝚞𝚒𝚘𝚊
 # disabled because we are using a custom domain
 #baseurl: /hagura # name of the repository
-email: sonofawitchzero@gmail.com
+email: willowxsequoia@gmail.com
 
 highlighter: rouge
 
@@ -17,7 +17,7 @@ paginate_path: /page:num/
 analytics: UA-83979019-4
 
 # Comments
-disqus-shortname: lunareclair-<3
+disqus-shortname: willowxsequoia<3
 
 
 #optimization
