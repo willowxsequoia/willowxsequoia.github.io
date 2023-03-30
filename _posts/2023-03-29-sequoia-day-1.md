@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sequoia - Day 1: I really miss you :("
+title:  "Sequoia: I really miss you :("
 subtitle:  "2"
 ---
 
