@@ -19,8 +19,6 @@ analytics: UA-83979019-4
 # Comments
 disqus-shortname: willowxsequoia<3
 
-excerpt_separator: <!--more-->
-
 #optimization
 #compress.html
 compress_html:
