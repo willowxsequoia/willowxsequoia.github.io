@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Sequoia: I really miss you :("
-subtitle:  "2"
+title:  "I really miss you :("
+subtitle:  "2 (by Sequoia)"
 ---
 
 My most beautiful Willow,
