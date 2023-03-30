@@ -3,7 +3,7 @@ layout: post
 title:  "I really miss you :("
 subtitle:  "2 (by Sequoia)"
 ---
-
+<!--more-->
 My most beautiful Willow,
 
 I really miss you. Last night was crazy, Wicked Oak was at it again, vowed to cut me down and make me feel her wrath. I have never been so fearful of what that might entail for WillowXSequoia. I then decided to appease Wicked Oak's wrath by fulfilling her bidding. This process of appeasement came at a cost of happening to be a lengthy and emotionally lonely hiatus away from you. When we talked this morning, it was not easy conveying this message to you, knowing that you would wake up to a sad and disheartening message. It was unlike all our other morning calls and messages. Despite the separation that was sadly inevitable due to the unforeseeable and unpredictable circumstances that always surround Wicked Oak, you understood and for that, I will be forever grateful. I miss you, and I really love you Willow, you are the best thing that has happened to me in a long, long time. 
