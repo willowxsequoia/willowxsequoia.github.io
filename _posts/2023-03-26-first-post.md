@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "We are Willow & Sequoia!"
-subtitle:  "# 1"
+subtitle:  "1 (by Willow & Sequoia)"
 ---
 
 Hi! This is Willow! Welcome to our website, I'm so glad you found your way to us <3 I hope you stay and enjoy reading our digital diary. 
