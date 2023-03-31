@@ -17,7 +17,7 @@ paginate_path: /page:num/
 analytics: UA-83979019-4
 
 # Comments
-disqus-shortname: willowxsequoia<3
+disqus-shortname: willowxsequoia.disqus.com
 
 #optimization
 #compress.html
