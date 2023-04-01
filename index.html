@@ -5,7 +5,7 @@ layout: default
 <div class="article-list">
   {% for post in paginator.posts %}
     <h2><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h2><small> Entry: {{post.subtitle}}</small><small> - {{ post.date | date_to_long_string: "ordinal", "US" }}</small>
-  <p>{{post.excerpt | strip_html}}<a href="{{post.url | prepend: site.baseurl}}"> <small><h6>(Read More...)</h6></small></a></p>
+  <p>{{post.excerpt | strip_html}}<a href="{{post.url | prepend: site.baseurl}}"><small>(Read More...)</small></a></p>
   {% endfor %}
 </div>
 
