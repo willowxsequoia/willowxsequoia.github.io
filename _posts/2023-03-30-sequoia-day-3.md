@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I Wish It Was Better"
+title:  "Today was Fantastic"
 subtitle:  "6 (by Sequoia)"
 ---
 <!--more-->
