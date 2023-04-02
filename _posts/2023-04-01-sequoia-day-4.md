@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I Cant't Wait"
+title:  "I Can't Wait"
 subtitle:  "8 (by Sequoia)"
 ---
 <!--more-->
